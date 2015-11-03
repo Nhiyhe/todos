@@ -1,0 +1,15 @@
+{
+  "name": "node_one",
+  "version": "1.0.0",
+  "description": "node_example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nhiyhe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "vash": "^0.10.0"
+  }
+}
